@@ -40,7 +40,7 @@ Desenvolvimento Front-end:  React, TypeScript.
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
-<img src="https://png.pngtree.com/background/20230527/original/pngtree-green-glow-in-a-dark-laptop-picture-image_2758566.jpg"   min-width="400px" max-width="400px" width="500px"  align="right" alt="img-programador">
+
 
 
 
