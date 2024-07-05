@@ -53,6 +53,8 @@ Desenvolvimento Front-end:  React, TypeScript.
 
 ![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
 ![Eclipse](https://img.shields.io/badge/eclipse-2C3E50?style=for-the-badge&logo=eclipse&logoColor=white)
+![IntelliJ](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+
 
 &nbsp;
 &nbsp;
