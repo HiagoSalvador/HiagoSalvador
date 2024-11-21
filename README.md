@@ -1,56 +1,60 @@
 <div align="center" style="background-color: #28a745; padding: 20px; border-radius: 10px;">
   <h1>Olá, eu sou <br/> Hiago 👨‍💻</h1>
+  <p>Desenvolvedor Full Stack com paixão por criar soluções tecnológicas eficientes e inovadoras. 🚀</p>
+  <p>Atualmente aprimorando conhecimentos em <strong>Java ☕</strong> e <strong>React ⚛️</strong>.</p>
 </div>
 
+---
 
+## 🌟 Objetivos Atuais
+- Aprimorar minhas habilidades em **Java** e **Spring Boot**.
+- Desenvolver projetos utilizando **React** e **TypeScript** para fortalecer minha expertise no Front-End.
+- Expandir meus conhecimentos em **AWS** ☁️.
 
+---
 
-Desenvolvedor Full Stack 🚀
-<br/>
-Atualmente aprimorando conhecimentos em Java ☕ e React ⚛️
+## 💻 Projetos Destacados
+- [**Intermentes**](https://github.com/Intermentes/PlataformaIntermentes) - Plataforma de terapia acessível com foco em psicologia e saúde mental.
+- [**VpmAPI**](https://github.com/HiagoSalvador/VpmAPI) - API para um sistema de produtos de limpeza.
+- [**SulSolidario**](https://github.com/HiagoSalvador/SulSolidario) - Plataforma onde reunimos informações e notícias sobre a tragédia que ocorreu em RS.
 
-## Contacts:
+---
 
-<a href = "mailto:hiago.salvador@hotmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/hiago-salvador/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+## 🛠️ Minhas Habilidades
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HiagoSalvador)](https://github.com/anuraghazra/github-readme-stats)
-
-
-
-
-&nbsp;
-&nbsp;
-
-## My Skills
-
-#### Main Stack:
-
+### 🚀 Desenvolvimento Web
 [![Java](https://img.shields.io/badge/☕%20Java-007396?style=for-the-badge&logo=java&logoColor=white)](https://www.java.com)
-![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white&labelColor=6DB33F)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![React.js](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 
+### 📊 Bancos de Dados
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🛠️ DevOps
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
-
-
-#### Databases:
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white&labelColor=4479A1)
-
-#### Workstation Tools:
-
-![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)&nbsp;
-![Eclipse](https://img.shields.io/badge/eclipse-2C3E50?style=for-the-badge&logo=eclipse&logoColor=white)
+### 🧰 Ferramentas
+![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
+![VScode](https://img.shields.io/badge/vscode-4285F4?style=for-the-badge&logo=vscode&logoColor=white)
 ![IntelliJ](https://img.shields.io/badge/intellij-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
+---
 
-&nbsp;
-&nbsp;
+![Hiago's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HiagoSalvador&show_icons=true&theme=radical)
+
+---
+
+## 📬 Contato
+
+- **Email**: <a href="mailto:hiago.salvador@hotmail.com" target="_blank">hiago.salvador@hotmail.com</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/hiago-salvador/" target="_blank">Hiago Salvador</a>
+
+
+---
+
+⭐ "A tecnologia é a arte de transformar ideias em soluções." ⭐
