@@ -1,7 +1,6 @@
 <div align="center" style="background-color: #28a745; padding: 20px; border-radius: 10px;">
   <h1>Olá, eu sou <br/> Hiago 👨‍💻</h1>
   <p>Desenvolvedor Full Stack com paixão por criar soluções tecnológicas eficientes e inovadoras. 🚀</p>
-  <p>Atualmente aprimorando conhecimentos em <strong>Java ☕</strong> e <strong>React ⚛️</strong>.</p>
 </div>
 
 ---
@@ -51,9 +50,9 @@
 
 ## 📬 Contato
 
-- **Email**: <a href="mailto:hiago.salvador@hotmail.com" target="_blank">hiago.salvador@hotmail.com</a>
-- **LinkedIn**: <a href="https://www.linkedin.com/in/hiago-salvador/" target="_blank">Hiago Salvador</a>
-
+- **Email**: hiago.salvador@hotmail.com
+- **LinkedIn**: [Hiago Salvador](https://www.linkedin.com/in/hiago-salvador/)
+- **GitHub**: [HiagoSalvador](https://github.com/HiagoSalvador)
 
 ---
 
