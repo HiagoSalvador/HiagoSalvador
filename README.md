@@ -53,7 +53,7 @@
 
 - **Email**: hiago.salvador@hotmail.com
 - **LinkedIn**: [Hiago Salvador](https://www.linkedin.com/in/hiago-salvador/)
-- **GitHub**: [HiagoSalvador](https://github.com/HiagoSalvador)
+
 
 ---
 
